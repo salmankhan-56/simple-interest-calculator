@@ -1,7 +1,2 @@
-p = float(input('Enter principal amount: '))
-r = float(input('Enter rate of interest: '))
-t = float(input('Enter time in years: '))
-
-si = (p * r * t) / 100
-print('Simple Interest:', si)
-print('Total Amount:', p + si)
+print("Welcome to simple-interest-calculator")
+print("This is the main program file.")
